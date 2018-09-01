@@ -1,0 +1,27 @@
+.movie-list-wrapper .card--transparent {
+  background-color: transparent !important;
+  border: 0;
+  padding-bottom: 15px; }
+  .movie-list-wrapper .card--transparent .card-body {
+    background-color: #0a0a0a; }
+  .movie-list-wrapper .card--transparent .card-title {
+    color: rgba(243, 32, 32, 0.9);
+    font-weight: 300; }
+    .movie-list-wrapper .card--transparent .card-title--sub {
+      color: rgba(116, 116, 116, 0.9); }
+  .movie-list-wrapper .card--transparent .card-text {
+    color: #3c3c3c; }
+  .movie-list-wrapper .card--transparent .btn-primary {
+    background-color: rgba(243, 32, 32, 0.9);
+    border: none; }
+
+.search-form {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  background-color: #0a0a0a;
+  color: #fff;
+  border-color: #0a0a0a;
+  outline: none !important;
+  min-height: 50px;
+  padding-left: 10px;
+ }
